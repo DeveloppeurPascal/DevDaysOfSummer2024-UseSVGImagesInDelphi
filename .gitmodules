@@ -7,3 +7,6 @@
 [submodule "lib-externes/Delphi-Bootstrap-Icons"]
 	path = lib-externes/Delphi-Bootstrap-Icons
 	url = https://github.com/shaunroselt/Delphi-Bootstrap-Icons.git
+[submodule "lib-externes/librairies"]
+	path = lib-externes/librairies
+	url = https://github.com/DeveloppeurPascal/librairies.git
