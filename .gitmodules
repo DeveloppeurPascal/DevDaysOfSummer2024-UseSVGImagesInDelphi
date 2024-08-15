@@ -10,3 +10,6 @@
 [submodule "lib-externes/librairies"]
 	path = lib-externes/librairies
 	url = https://github.com/DeveloppeurPascal/librairies.git
+[submodule "lib-externes/SVGIconImageList"]
+	path = lib-externes/SVGIconImageList
+	url = https://github.com/EtheaDev/SVGIconImageList
