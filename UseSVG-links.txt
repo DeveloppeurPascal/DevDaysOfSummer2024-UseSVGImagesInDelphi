@@ -1,0 +1,11 @@
+Samples, PDF and slides for this talk:
+https://github.com/DeveloppeurPascal/DevDaysOfSummer2024-UseSVGImagesInDelphi
+
+SVG Folder 2 Delphi Unit: the program I use to generate Delphi units from SVG files
+https://github.com/DeveloppeurPascal/SVGFolder2DelphiUnit
+
+SVG Icon Image List from Ethea:
+https://github.com/EtheaDev/SVGIconImageList
+
+Icons for Delphi projects from Shaun Roselt :
+https://github.com/shaunroselt?tab=repositories&q=delphi+icons
