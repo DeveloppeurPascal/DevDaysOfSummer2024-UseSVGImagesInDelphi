@@ -1,3 +1,6 @@
 [submodule "lib-externes/Delphi-Feather-Icons"]
 	path = lib-externes/Delphi-Feather-Icons
 	url = https://github.com/shaunroselt/Delphi-Feather-Icons.git
+[submodule "lib-externes/Delphi-Font-Awesome-Icons"]
+	path = lib-externes/Delphi-Font-Awesome-Icons
+	url = https://github.com/shaunroselt/Delphi-Font-Awesome-Icons.git
