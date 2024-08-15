@@ -2,11 +2,43 @@
 
 [This page in English.](README.md)
 
-Ce dépôt contiendra les slides et les exemples réalisés à l'occasion de la présentation "Use SVG images in Delphi" de Patrick Prémartin lors des [Dev Days of Summer 2024](https://www.codegear.com/DevDaysofSummer/) organisés par [Embarcadero](https://www.embarcadero.com).
+Ce dépôt contient les slides ([FR](slides-FR/) / [EN](slides-EN/)), les PDF ([FR](UseSVGImagesInDelphi-FR.pdf) / [EN](UseSVGImagesInDelphi-EN.pdf)) et les programmes d'exemples réalisés pour la présentation "Use SVG images in Delphi" de Patrick Prémartin lors des [Dev Days of Summer 2024](https://www.codegear.com/DevDaysofSummer/) organisés par [Embarcadero](https://www.embarcadero.com).
 
-Il sera complété après la présentation. Veuillez [vous inscrire sur l'événement](https://www.codegear.com/DevDaysofSummer/) pour y assister en direct et poser vos éventuelles questions.
+Il y a maintenant une multitude de façons d'utiliser des fichiers SVG dans les projets VCL comme FireMonkey sous Delphi. Nous en avons vu plusieurs depuis le concepteur de fiches ou par codes. Maintenant c'est à vous de jouer quand vous modernisez les interfaces utilisateurs de vos logiciels. Prenez en charge les écrans à haute définition modernes qui commencent à se répandre un peu partout.
 
 Ce dépôt de code contient un projet développé en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
+
+## Présentations et conférences
+
+### Dev Days of Summer 2024
+
+* la rediffusion est pour bientôt
+
+### Twitch
+
+Suivez mes streams de développement de logiciels, jeux vidéo, applications mobiles et sites web sur [ma chaîne Twitch](https://www.twitch.tv/patrickpremartin) ou en rediffusion sur [Serial Streameur](https://serialstreameur.fr) la plupart du temps en français.
+
+## Installation des codes sources
+
+Pour télécharger ce dépôt de code il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis [son dépôt GitHub](https://github.com/DeveloppeurPascal/DevDaysOfSummer2024-UseSVGImagesInDelphi).
+
+Ce projet utilise des dépendances sous forme de sous modules. Ils seront absents du fichier ZIP. Vous devrez les télécharger à la main.
+
+* [shaunroselt/Delphi-Feather-Icons](https://github.com/shaunroselt/Delphi-Feather-Icons) doit être installé dans le sous dossier ./lib-externes/Delphi-Feather-Icons
+* [shaunroselt/Delphi-Font-Awesome-Icons](https://github.com/shaunroselt/Delphi-Font-Awesome-Icons) doit être installé dans le sous dossier ./lib-externes/Delphi-Font-Awesome-Icons
+* [shaunroselt/Delphi-Bootstrap-Icons](https://github.com/shaunroselt/Delphi-Bootstrap-Icons) doit être installé dans le sous dossier ./lib-externes/Delphi-Bootstrap-Icons
+* [DeveloppeurPascal/librairies](https://github.com/DeveloppeurPascal/librairies) doit être installé dans le sous dossier ./lib-externes/librairies
+* [EtheaDev/SVGIconImageList](https://github.com/EtheaDev/SVGIconImageList) doit être installé dans le sous dossier ./lib-externes/SVGIconImageList
+
+## Compatibilité
+
+En tant que [MVP Embarcadero](https://www.embarcadero.com/resources/partners/mvp-directory) je bénéficie dès qu'elles sortent des dernières versions de [Delphi](https://www.embarcadero.com/products/delphi) et [C++ Builder](https://www.embarcadero.com/products/cbuilder) dans [RAD Studio](https://www.embarcadero.com/products/rad-studio). C'est donc dans ces versions que je travaille.
+
+Normalement mes librairies et composants doivent aussi fonctionner au moins sur la version en cours de [Delphi Community Edition](https://www.embarcadero.com/products/delphi/starter).
+
+Aucune garantie de compatibilité avec des versions antérieures n'est fournie même si je m'efforce de faire du code propre et ne pas trop utiliser les nouvelles façons d'écrire dedans (type inference, inline var et multilines strings).
+
+Si vous détectez des anomalies sur des versions antérieures n'hésitez pas à [les rapporter](https://github.com/DeveloppeurPascal/DevDaysOfSummer2024-UseSVGImagesInDelphi/issues) pour que je teste et tente de corriger ou fournir un contournement.
 
 ## Licence d'utilisation de ce dépôt de code et de son contenu
 
@@ -22,6 +54,14 @@ Si cette licence ne convient pas à vos besoins vous pouvez acheter un droit d'u
 Ces codes sources sont fournis en l'état sans garantie d'aucune sorte.
 
 Certains éléments inclus dans ce dépôt peuvent dépendre de droits d'utilisation de tiers (images, sons, ...). Ils ne sont pas réutilisables dans vos projets sauf mention contraire.
+
+## Comment demander une nouvelle fonctionnalité, signaler un bogue ou une faille de sécurité ?
+
+Si vous voulez une réponse du propriétaire de ce dépôt la meilleure façon de procéder pour demander une nouvelle fonctionnalité ou signaler une anomalie est d'aller sur [le dépôt de code sur GitHub](https://github.com/DeveloppeurPascal/DevDaysOfSummer2024-UseSVGImagesInDelphi) et [d'ouvrir un ticket](https://github.com/DeveloppeurPascal/DevDaysOfSummer2024-UseSVGImagesInDelphi/issues).
+
+Si vous avez trouvé une faille de sécurité n'en parlez pas en public avant qu'un correctif n'ait été déployé ou soit disponible. [Contactez l'auteur du dépôt en privé](https://developpeur-pascal.fr/nous-contacter.php) pour expliquer votre trouvaille.
+
+Vous pouvez aussi cloner ce dépôt de code et participer à ses évolutions en soumettant vos modifications si vous le désirez. Lisez les explications dans le fichier [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Supportez ce projet et son auteur
 

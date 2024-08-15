@@ -2,11 +2,43 @@
 
 [Cette page en français.](LISEZMOI.md)
 
-This repository will contain slides and samples created for the "Use SVG images in Delphi" talk by Patrick Prémartin during the [Dev Days of Summer 2024](https://www.codegear.com/DevDaysofSummer/) organised by [Embarcadero](https://www.embarcadero.com).
+This repository contains the slides ([FR](slides-FR/) / [EN](slides-EN/)), the PDF ([FR](UseSVGImagesInDelphi-FR.pdf) / [EN](UseSVGImagesInDelphi-EN.pdf)) and the demo video games created for the "Use SVG images in Delphi" talk by Patrick Prémartin during the [Dev Days of Summer 2024](https://www.codegear.com/DevDaysofSummer/) organised by [Embarcadero](https://www.embarcadero.com).
 
-It will be completed after the show. Please [subscribe to the event](https://www.codegear.com/DevDaysofSummer/) to attend the live session and ask your questions.
+There are now a multitude of ways to use SVG files in VCL projects such as FireMonkey under Delphi. We've seen some of them from the plug-in designer or by code. Now it's up to you to modernize the user interfaces of your software. Support the modern high-definition screens that are becoming commonplace.
 
 This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
+
+## Talks and conferences
+
+### Dev Days of Summer 2024
+
+* the replay will be released shortly
+
+### Twitch
+
+Follow my development streams of software, video games, mobile applications and websites on [my Twitch channel](https://www.twitch.tv/patrickpremartin) or as replays on [Serial Streameur](https://serialstreameur.fr) mostly in French.
+
+## Source code installation
+
+To download this code repository, we recommend using "git", but you can also download a ZIP file directly from [its GitHub repository](https://github.com/DeveloppeurPascal/DevDaysOfSummer2024-UseSVGImagesInDelphi).
+
+This project uses dependencies in the form of sub-modules. They will be absent from the ZIP file. You'll have to download them by hand.
+
+* [shaunroselt/Delphi-Feather-Icons](https://github.com/shaunroselt/Delphi-Feather-Icons) must be installed in the ./lib-externes/Delphi-Feather-Icons subfolder.
+* [shaunroselt/Delphi-Font-Awesome-Icons](https://github.com/shaunroselt/Delphi-Font-Awesome-Icons) must be installed in the ./lib-externes/Delphi-Font-Awesome-Icons subfolder.
+* [shaunroselt/Delphi-Bootstrap-Icons](https://github.com/shaunroselt/Delphi-Bootstrap-Icons) must be installed in the ./lib-externes/Delphi-Bootstrap-Icons subfolder.
+* [DeveloppeurPascal/librairies](https://github.com/DeveloppeurPascal/librairies) must be installed in the ./lib-externes/librairies subfolder.
+* [EtheaDev/SVGIconImageList](https://github.com/EtheaDev/SVGIconImageList) must be installed in the ./lib-externes/SVGIconImageList subfolder.
+
+## Compatibility
+
+As an [Embarcadero MVP](https://www.embarcadero.com/resources/partners/mvp-directory), I benefit from the latest versions of [Delphi](https://www.embarcadero.com/products/delphi) and [C++ Builder](https://www.embarcadero.com/products/cbuilder) in [RAD Studio](https://www.embarcadero.com/products/rad-studio) as soon as they are released. I therefore work with these versions.
+
+Normally, my libraries and components should also run on at least the current version of [Delphi Community Edition](https://www.embarcadero.com/products/delphi/starter).
+
+There's no guarantee of compatibility with earlier versions, even though I try to keep my code clean and avoid using too many of the new ways of writing in it (type inference, inline var and multiline strings).
+
+If you detect any anomalies on earlier versions, please don't hesitate to [report them](https://github.com/DeveloppeurPascal/DevDaysOfSummer2024-UseSVGImagesInDelphi/issues) so that I can test and try to correct or provide a workaround.
 
 ## License to use this code repository and its contents
 
@@ -22,6 +54,14 @@ If this license doesn't suit your needs, you can purchase the right to use this 
 These source codes are provided as is, without warranty of any kind.
 
 Certain elements included in this repository may be subject to third-party usage rights (images, sounds, etc.). They are not reusable in your projects unless otherwise stated.
+
+## How to ask a new feature, report a bug or a security issue ?
+
+If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the GitHub repository](https://github.com/DeveloppeurPascal/DevDaysOfSummer2024-UseSVGImagesInDelphi) and [open a new issue](https://github.com/DeveloppeurPascal/DevDaysOfSummer2024-UseSVGImagesInDelphi/issues).
+
+If you found a security issue please don't report it publicly before a patch is available. Explain the case by [sending a private message to the author](https://developpeur-pascal.fr/nous-contacter.php).
+
+You also can fork the repository and contribute by submitting pull requests if you want to help. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## Support the project and its author
 
