@@ -1,0 +1,3 @@
+[submodule "lib-externes/Delphi-Feather-Icons"]
+	path = lib-externes/Delphi-Feather-Icons
+	url = https://github.com/shaunroselt/Delphi-Feather-Icons.git
