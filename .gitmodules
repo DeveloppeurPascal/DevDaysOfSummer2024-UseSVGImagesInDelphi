@@ -4,3 +4,6 @@
 [submodule "lib-externes/Delphi-Font-Awesome-Icons"]
 	path = lib-externes/Delphi-Font-Awesome-Icons
 	url = https://github.com/shaunroselt/Delphi-Font-Awesome-Icons.git
+[submodule "lib-externes/Delphi-Bootstrap-Icons"]
+	path = lib-externes/Delphi-Bootstrap-Icons
+	url = https://github.com/shaunroselt/Delphi-Bootstrap-Icons.git
