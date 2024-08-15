@@ -12,7 +12,7 @@ This code repository contains a project developed in Object Pascal language unde
 
 ### Dev Days of Summer 2024
 
-* the replay will be released shortly
+* [Use SVG images in Delphi](https://www.youtube.com/live/kDXT7RtEpaQ?feature=shared&t=10660) (live session during the conference, in English)
 
 ### Twitch
 

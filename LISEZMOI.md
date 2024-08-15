@@ -12,7 +12,7 @@ Ce dépôt de code contient un projet développé en langage Pascal Objet sous D
 
 ### Dev Days of Summer 2024
 
-* la rediffusion est pour bientôt
+* [Use SVG images in Delphi](https://www.youtube.com/live/kDXT7RtEpaQ?feature=shared&t=10660) (diffusion en direct durant la conférence, en anglais)
 
 ### Twitch
 
