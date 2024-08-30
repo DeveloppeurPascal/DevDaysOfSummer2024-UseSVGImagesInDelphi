@@ -13,7 +13,7 @@ Ce dépôt de code contient un projet développé en langage Pascal Objet sous D
 ### Dev Days of Summer 2024
 
 * [Use SVG images in Delphi](https://serialstreameur.fr/use-svg-images-in-delphi.html) (en anglais)
-* [Use SVG images in Delphi](https://www.youtube.com/watch?v=_KEPLbJlKX0&list=PLwUPJvR9mZHgsi1qTMqvDtXFIqwXewt6u&index=14&pp=iAQB) (rediffusion de la présentation en direct en anglais)
+* [Use SVG images in Delphi](https://youtu.be/_KEPLbJlKX0) (rediffusion de la présentation en direct en anglais)
 
 ### Twitch
 
