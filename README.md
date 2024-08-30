@@ -12,7 +12,8 @@ This code repository contains a project developed in Object Pascal language unde
 
 ### Dev Days of Summer 2024
 
-* [Use SVG images in Delphi](https://www.youtube.com/live/kDXT7RtEpaQ?feature=shared&t=10660) (live session during the conference, in English)
+* [Use SVG images in Delphi](https://serialstreameur.fr/use-svg-images-in-delphi.html) (in English)
+* [Use SVG images in Delphi](https://www.youtube.com/watch?v=_KEPLbJlKX0&list=PLwUPJvR9mZHgsi1qTMqvDtXFIqwXewt6u&index=14&pp=iAQB) (live session replay in English)
 
 ### Twitch
 
