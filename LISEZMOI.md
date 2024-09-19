@@ -31,6 +31,13 @@ Ce projet utilise des dépendances sous forme de sous modules. Ils seront absent
 * [DeveloppeurPascal/librairies](https://github.com/DeveloppeurPascal/librairies) doit être installé dans le sous dossier ./lib-externes/librairies
 * [EtheaDev/SVGIconImageList](https://github.com/EtheaDev/SVGIconImageList) doit être installé dans le sous dossier ./lib-externes/SVGIconImageList
 
+## Des icones SVG pour vos projets Delphi
+
+* [shaunroselt/Delphi-Feather-Icons](https://github.com/shaunroselt/Delphi-Feather-Icons) : Feather icons
+* [shaunroselt/Delphi-Font-Awesome-Icons](https://github.com/shaunroselt/Delphi-Font-Awesome-Icons) : Font Awesome icons
+* [shaunroselt/Delphi-Bootstrap-Icons](https://github.com/shaunroselt/Delphi-Bootstrap-Icons) : Bootstrap icons
+* [skamradt/SVGIconViewer](https://github.com/skamradt/SVGIconViewer) : Microsoft Fluent UI System Icons, tabler-icons 
+
 ## Compatibilité
 
 En tant que [MVP Embarcadero](https://www.embarcadero.com/resources/partners/mvp-directory) je bénéficie dès qu'elles sortent des dernières versions de [Delphi](https://www.embarcadero.com/products/delphi) et [C++ Builder](https://www.embarcadero.com/products/cbuilder) dans [RAD Studio](https://www.embarcadero.com/products/rad-studio). C'est donc dans ces versions que je travaille.
